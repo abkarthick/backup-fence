@@ -1,4 +1,4 @@
-# Backup Fence Plugin Documentation
+# Backup Fence WordPress Plugin Documentation
 
 ## Overview
 Backup Fence is a secure WordPress plugin designed to help you create backups of your WordPress database and files easily. It allows administrators to manage backups, ensuring that your website data is safe and easily retrievable.
